@@ -58,17 +58,17 @@
     "url": "https://www.michaellavery.com",
     "icon": "https://favicons.githubusercontent.com/www.michaellavery.com",
     "slug": "test-broken-site",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 198,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 198,
-    "timeYear": 198,
+    "time": 192,
+    "timeDay": 164,
+    "timeWeek": 164,
+    "timeMonth": 192,
+    "timeYear": 192,
     "dailyMinutesDown": {}
   }
 ]
