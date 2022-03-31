@@ -56,24 +56,21 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Test Broken Site",
+    "name": "Michael Lavery",
     "url": "https://www.michaellavery.com",
     "icon": "https://favicons.githubusercontent.com/www.michaellavery.com",
-    "slug": "test-broken-site",
+    "slug": "michael-lavery",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.99%",
-    "time": 283,
-    "timeDay": 416,
-    "timeWeek": 365,
-    "timeMonth": 283,
-    "timeYear": 283,
-    "dailyMinutesDown": {
-      "2022-03-14": 26,
-      "2022-03-13": 22
-    }
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 193,
+    "timeDay": 193,
+    "timeWeek": 193,
+    "timeMonth": 193,
+    "timeYear": 193,
+    "dailyMinutesDown": {}
   }
 ]
