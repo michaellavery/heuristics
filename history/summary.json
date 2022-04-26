@@ -22,7 +22,7 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
     "slug": "wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +34,7 @@
     "timeMonth": 196,
     "timeYear": 189,
     "dailyMinutesDown": {
+      "2022-04-26": 0,
       "2022-03-29": 16
     }
   },
@@ -61,11 +62,11 @@
     "icon": "https://favicons.githubusercontent.com/www.michaellavery.com",
     "slug": "michael-lavery",
     "status": "up",
-    "uptime": "96.80%",
+    "uptime": "96.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.19%",
-    "uptimeMonth": "96.80%",
-    "uptimeYear": "96.80%",
+    "uptimeMonth": "96.82%",
+    "uptimeYear": "96.82%",
     "time": 251,
     "timeDay": 185,
     "timeWeek": 254,
