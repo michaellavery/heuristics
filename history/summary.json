@@ -45,9 +45,9 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://favicons.githubusercontent.com/news.ycombinator.com",
     "slug": "hacker-news",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -57,6 +57,7 @@
     "timeMonth": 287,
     "timeYear": 299,
     "dailyMinutesDown": {
+      "2022-07-08": 0,
       "2022-04-27": 40
     }
   },
@@ -66,11 +67,11 @@
     "icon": "https://favicons.githubusercontent.com/www.michaellavery.com",
     "slug": "michael-lavery",
     "status": "up",
-    "uptime": "97.90%",
+    "uptime": "97.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.69%",
-    "uptimeYear": "97.90%",
+    "uptimeYear": "97.91%",
     "time": 296,
     "timeDay": 456,
     "timeWeek": 332,
